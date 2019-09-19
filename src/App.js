@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 
-import Play from "./asset/play.mp4";
+import Play from "./asset/play2.mp4";
 import Set1 from "./asset/set1.jpg";
 import Set2 from "./asset/set2.jpg";
 import Set3 from "./asset/set3.jpg";
@@ -184,28 +184,28 @@ const About = props => {
     <div className="about">
       <img src={Set3} alt="set3" />
       <p className="tekts">
-        Over the past <span className="fancy">twenty</span> years,
+        Over the past twenty years,
         <br />I have developed a <span className="fancy">unique</span> system
         <br />
-        of teaching students how to play guitar
+        of teaching students
         <br />
-        <span className="fancy">without</span> the need to{" "}
-        <span className="fancy">read</span> music.
+        how to play guitar
+        <br />
+        without the need to read music.
         <br />
         <br />
-        As an <span className="fancy">outlet</span>
-        <br />
+        As an <span className="fancy">outlet </span>
         through which one may <span className="fancy">express</span>
         <br />
-        his or her <span className="fancy">subconscious emotions</span>
+        his or her <span className="fancy">subconscious </span>emotions
         <br />
-        with a combiation of vibrations
+        in the form of combinations of vibrations
         <br />
         that are simultaneously <span className="fancy">felt</span> and{" "}
         <span className="fancy">heard</span>,
         <br />
         playing music is the most enjoyable activity
-        <br />I have <span className="fancy">ever</span> participated in.
+        <br />I have ever participated in.
       </p>
     </div>
   );
@@ -215,36 +215,32 @@ const Truth = () => {
   return (
     <div className="truth">
       <p className="tekts">
-        A <span className="fancy">startling</span> amount of guitar{" "}
-        <span className="fancy">classes</span>
+        A startling amount of guitar classes
         <br />
-        are based on <span className="fancy">ideas</span> taken from books
+        are based on <span className="fancy">ideas</span>
+        <br /> taken from <span className="fancy">books </span>
         <br />
         written by <span className="fancy">third parties</span>
         <br />
         <br />
-        <span className="fancy">...Ideas</span> the teachers
+        ...ideas
         <br />
-        of these <span className="fancy">classes</span>
+        the teachers<br />of these <span className="fancy">classes</span>
         <br />
-        <span className="fancy">don't</span> fully understand!
+        don't<span className="fancy"> fully</span> understand!
         <br />
         <br />
         Most of these instructors
         <br />
-        are just there for the <span className="fancy">paycheck</span>
+        are just there for the paycheck.
         <br /> <br />
-        To <span className="fancy">me</span>, this is not a{" "}
-        <span className="fancy">job</span>.
+        <span className="fancy">To me, this is not a job</span>.
         <br /> <br />
-        In fact, your <span className="fancy">first</span> class is{" "}
-        <span className="fancy">free</span>.
+        In fact, your first class is{" "}
+        <span className="fancy">free</span>!
         <br />
         <br />
-        And if you are sincerely dissatisfied,
-        <br />
-        your <span className="fancy">next</span> class is{" "}
-        <span className="fancy">free</span> as well!
+       
       </p>
     </div>
   );
@@ -267,19 +263,16 @@ const Course = () => {
         <br /> <br />
         Ignorance of these
         <br />
-        <span className="fancy">seemingly insignificant</span> details
+        <span className="fancy">seemingly</span> insignificant details
         <br />
-        will,
+        will, without a doubt,
         <br />
-        without a doubt,
-        <br />
-        <span className="fancy">limit</span> a musician's ability to{" "}
+        limit a musician's ability to{" "}
         <span className="fancy">succeed</span>.
         <br />
-        <br />I know <span className="fancy">every single detail</span> of{" "}
-        <span className="fancy">my system</span>
+        <br />I know <span className="fancy">every single detail</span> of <br />my system
         <br />
-        because <span className="fancy">I created it!</span>
+        because <span className="fancy">I created it</span>!
         <br />
         <br />
         I construct patterns of exercises,
@@ -371,7 +364,7 @@ const Feel = () => {
         <br />
         you will soon realize
         <br />
-        the less you<span className="fancy">think</span> and the more you{" "}
+        the less you <span className="fancy">think</span> and the more you{" "}
         <span className="fancy">feel</span>,
         <br />
         the better you will <span className="fancy">play</span>.
