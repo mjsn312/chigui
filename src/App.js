@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import "./App.css";
 
-import Play from "./asset/play2.mp4";
+import Play from "./asset/play3.mp4";
 import Set1 from "./asset/set1.jpg";
 import Set2 from "./asset/set2.jpg";
 import Set3 from "./asset/set3.jpg";
+import Me from "./asset/me.jpg";
 
 var mostVisible = require("most-visible");
 
@@ -173,7 +174,23 @@ const Header = props => {
     <header className="header">
       <BgVid src={Play} />
       <div className="inner">
-        <h1>Chicago Guitar Instructor</h1>
+        <h1>
+          Chicago Guitar Instructor
+          <h2>
+            <br />
+            Learn the Sacred Art of
+            <br />
+            Euphoric Subconscious Expression
+            <br />
+            Through Music
+            <br />
+            <br />
+            Without <span className="fancy">Reading</span> Music
+            <br />
+            <br />
+            Every Student's First Class is Free!
+          </h2>
+        </h1>
       </div>
     </header>
   );
@@ -182,30 +199,29 @@ const Header = props => {
 const About = props => {
   return (
     <div className="about">
-      <img src={Set3} alt="set3" />
+      <img src={Set2} alt="set2" />
       <p className="tekts">
         Over the past twenty years,
         <br />I have developed a <span className="fancy">unique</span> system
         <br />
         of teaching students
         <br />
-        how to play guitar
+        how to play guitar,
         <br />
         without the need to read music.
         <br />
         <br />
-        As an <span className="fancy">outlet </span>
+        Music can be used as an <span className="fancy">outlet </span>
+        <br />
         through which one may <span className="fancy">express</span>
         <br />
         his or her <span className="fancy">subconscious </span>emotions
         <br />
-        in the form of combinations of vibrations
+        in the form of <br />
+        combinations of vibrations
         <br />
         that are simultaneously <span className="fancy">felt</span> and{" "}
-        <span className="fancy">heard</span>,
-        <br />
-        playing music is the most enjoyable activity
-        <br />I have ever participated in.
+        <span className="fancy">heard</span>
       </p>
     </div>
   );
@@ -220,27 +236,27 @@ const Truth = () => {
         are based on <span className="fancy">ideas</span>
         <br /> taken from <span className="fancy">books </span>
         <br />
-        written by <span className="fancy">third parties</span>
+        written by <span className="fancy">third parties</span>.
         <br />
         <br />
         ...ideas
         <br />
-        the teachers<br />of these <span className="fancy">classes</span>
+        the teachers
+        <br />
+        of these <span className="fancy">classes</span>
         <br />
         don't<span className="fancy"> fully</span> understand!
         <br />
         <br />
-        Most of these instructors
+        A lot of these instructors
         <br />
-        are just there for the paycheck.
+        are <span className="fancy">just</span> there for the paycheck.
         <br /> <br />
-        <span className="fancy">To me, this is not a job</span>.
+        To me, this is <span className="fancy">not a job</span>.
         <br /> <br />
-        In fact, your first class is{" "}
-        <span className="fancy">free</span>!
+        In fact, your first class is <span className="fancy">free</span>!
         <br />
         <br />
-       
       </p>
     </div>
   );
@@ -267,23 +283,22 @@ const Course = () => {
         <br />
         will, without a doubt,
         <br />
-        limit a musician's ability to{" "}
-        <span className="fancy">succeed</span>.
+        limit a musician's ability to <span className="fancy">succeed</span>.
         <br />
-        <br />I know <span className="fancy">every single detail</span> of <br />my system
+        <br />I know <span className="fancy">every single detail</span>
         <br />
-        because <span className="fancy">I created it</span>!
+        of my system
         <br />
-        <br />
+        because <span className="fancy">I created it!</span>
+      </p>
+      <p className="tekts">
         I construct patterns of exercises,
         <br />
-        based on <span className="fancy">each individual student</span>'s
+        based on <span className="fancy">each individual student's</span>
         <br />
         experience and goals.
         <br />
         <br />
-      </p>
-      <p className="tekts">
         Through <span className="fancy">repetition</span>,
         <br />
         these simple, enjoyable exercises
@@ -291,10 +306,12 @@ const Course = () => {
         become <span className="fancy">habits</span>.
         <br />
         <br />
-        Literal <span className="fancy">habits</span> do not require thought.
+        True <span className="fancy">habits</span> do not require{" "}
+        <span className="fancy">conscious</span> thought.
         <br />
         <br />
-        <span className="fancy">They just happen!</span>
+        They become second nature and{" "}
+        <span className="fancy">just happen!</span>
         <br />
         <br />I specialize in recognizing the{" "}
         <span className="fancy">tendencies</span>
@@ -305,9 +322,8 @@ const Course = () => {
         <br />
         patterns that transform them into
         <br />
-        <span className="fancy">successful habits</span>!
+        <span className="fancy">successful habits!</span>
       </p>
-      <img src={Set2} alt="set2" />
     </div>
   );
 };
@@ -330,13 +346,17 @@ const Feel = () => {
         .
         <br />
         <br />
-        When exectued <span className="fancy">correctly</span>,
+        And when exectued <span className="fancy">correctly</span>,
         <br />
         the resulting <span className="fancy">euphoria</span> is incomparible
         <br />
-        to <span className="fancy">any</span> other sensation known to man.
+        to <span className="fancy">any</span> other sensation.
         <br />
         <br />
+        The less you <span className="fancy">think</span> and the more you{" "}
+        <span className="fancy">feel</span>,
+        <br />
+        the better you will <span className="fancy">play</span>.
       </p>
       <p className="tekts">
         I will teach you how to experience
@@ -348,26 +368,20 @@ const Feel = () => {
         <br />
         and <span className="fancy">every</span> sound you create,
         <br />
-        which will provide you
+        <br />
+        Which will provide
         <br />
         the necessary encouragement
         <br />
-        to practice as <span className="fancy">often</span> as you can.
+        to practice<span className="fancy">/</span>experiment
+        <br />
+        <span className="fancy">as often as you can.</span>
         <br />
         <br />
         Remember,
-        <br />
-        <span className="fancy">habits</span> are formed through repetition.
-        <br />
-        <br />
-        By following the very first principles I teach,
-        <br />
-        you will soon realize
-        <br />
-        the less you <span className="fancy">think</span> and the more you{" "}
-        <span className="fancy">feel</span>,
-        <br />
-        the better you will <span className="fancy">play</span>.
+        <span className="fancy"> habits</span> are formed <br />
+        through
+        <span className="fancy"> repetition</span>.
       </p>
     </div>
   );
@@ -410,12 +424,40 @@ const Contact = () => {
   return (
     <div className="contact">
       <p className="tekts">
+        <span className="fancy">$40</span> per class.
+        <br />
+        First class is always <span className="fancy">free</span>
+        <br />
+        <br />I charge per <span className="fancy">class</span>, rather than per{" "}
+        <span className="fancy">hour</span>
+        <br />
+        because each student is <span className="fancy">unique</span>.
+        <br />
+        <br />
+        My class is not over
+        <br />
+        until what I'm teaching you clicks.
+        <br />
+        And I know <span className="fancy">exactly</span> how to make that happen!
+        <br />
+        <br />I currently have a 100%<span className="fancy">
+          {" "}
+          success
+        </span>{" "}
+        rate.
+        <br />
+        <br />
+        <br />
+      </p>
+      <span className="namesies">
+        <img src={Me} alt="meme" />
+        <br />
         Matthew J. Nolan
         <br />
         Tinley Park, IL
         <br />
         mnolan312@gmail.com
-      </p>
+      </span>
     </div>
   );
 };
