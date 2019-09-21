@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mjsn312/chigui.git/static/css/main.53ae2ae5.chunk.css",
+    "main.js": "/mjsn312/chigui.git/static/js/main.44fc1b2f.chunk.js",
+    "main.js.map": "/mjsn312/chigui.git/static/js/main.44fc1b2f.chunk.js.map",
+    "runtime~main.js": "/mjsn312/chigui.git/static/js/runtime~main.86e22ae0.js",
+    "runtime~main.js.map": "/mjsn312/chigui.git/static/js/runtime~main.86e22ae0.js.map",
+    "static/js/2.448e4968.chunk.js": "/mjsn312/chigui.git/static/js/2.448e4968.chunk.js",
+    "static/js/2.448e4968.chunk.js.map": "/mjsn312/chigui.git/static/js/2.448e4968.chunk.js.map",
+    "index.html": "/mjsn312/chigui.git/index.html",
+    "precache-manifest.5a8be6922888e18d919e380780060552.js": "/mjsn312/chigui.git/precache-manifest.5a8be6922888e18d919e380780060552.js",
+    "service-worker.js": "/mjsn312/chigui.git/service-worker.js",
+    "static/css/main.53ae2ae5.chunk.css.map": "/mjsn312/chigui.git/static/css/main.53ae2ae5.chunk.css.map",
+    "static/media/App.css": "/mjsn312/chigui.git/static/media/skyline.3a8bde13.png",
+    "static/media/me.jpg": "/mjsn312/chigui.git/static/media/me.1cc551fe.jpg",
+    "static/media/play3.mp4": "/mjsn312/chigui.git/static/media/play3.789b3e57.mp4",
+    "static/media/set1.jpg": "/mjsn312/chigui.git/static/media/set1.49c31b55.jpg",
+    "static/media/set2.jpg": "/mjsn312/chigui.git/static/media/set2.cba67f88.jpg",
+    "static/media/set3.jpg": "/mjsn312/chigui.git/static/media/set3.c11372fb.jpg"
+  }
+}
