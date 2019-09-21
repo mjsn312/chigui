@@ -9,7 +9,8 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
-  "homepage": "https://mjsn312.github.io/chigui/",
+  
+  "homepage": "https://mjsn312.github.io/",
   
   "scripts": {
     "start": "react-scripts start",
