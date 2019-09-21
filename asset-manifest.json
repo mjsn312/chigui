@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/chigui/static/css/main.ade96c64.chunk.css",
-    "main.js": "/chigui/static/js/main.7452447b.chunk.js",
-    "main.js.map": "/chigui/static/js/main.7452447b.chunk.js.map",
-    "runtime~main.js": "/chigui/static/js/runtime~main.f15e5cdf.js",
-    "runtime~main.js.map": "/chigui/static/js/runtime~main.f15e5cdf.js.map",
-    "static/js/2.448e4968.chunk.js": "/chigui/static/js/2.448e4968.chunk.js",
-    "static/js/2.448e4968.chunk.js.map": "/chigui/static/js/2.448e4968.chunk.js.map",
-    "index.html": "/chigui/index.html",
-    "precache-manifest.610e0a25b4ebcccf0860a43faf348669.js": "/chigui/precache-manifest.610e0a25b4ebcccf0860a43faf348669.js",
-    "service-worker.js": "/chigui/service-worker.js",
-    "static/css/main.ade96c64.chunk.css.map": "/chigui/static/css/main.ade96c64.chunk.css.map",
-    "static/media/App.css": "/chigui/static/media/skyline.3a8bde13.png",
-    "static/media/me.jpg": "/chigui/static/media/me.1cc551fe.jpg",
-    "static/media/play3.mp4": "/chigui/static/media/play3.789b3e57.mp4",
-    "static/media/set1.jpg": "/chigui/static/media/set1.49c31b55.jpg",
-    "static/media/set2.jpg": "/chigui/static/media/set2.cba67f88.jpg",
-    "static/media/set3.jpg": "/chigui/static/media/set3.c11372fb.jpg"
+    "main.css": "/static/css/main.b1771920.chunk.css",
+    "main.js": "/static/js/main.d21a9900.chunk.js",
+    "main.js.map": "/static/js/main.d21a9900.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.818af6c1.js",
+    "runtime~main.js.map": "/static/js/runtime~main.818af6c1.js.map",
+    "static/js/2.448e4968.chunk.js": "/static/js/2.448e4968.chunk.js",
+    "static/js/2.448e4968.chunk.js.map": "/static/js/2.448e4968.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.71045c6872ad38342c11c7a3dc42d371.js": "/precache-manifest.71045c6872ad38342c11c7a3dc42d371.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b1771920.chunk.css.map": "/static/css/main.b1771920.chunk.css.map",
+    "static/media/App.css": "/static/media/skyline.3a8bde13.png",
+    "static/media/me.jpg": "/static/media/me.1cc551fe.jpg",
+    "static/media/play3.mp4": "/static/media/play3.789b3e57.mp4",
+    "static/media/set1.jpg": "/static/media/set1.49c31b55.jpg",
+    "static/media/set2.jpg": "/static/media/set2.cba67f88.jpg",
+    "static/media/set3.jpg": "/static/media/set3.c11372fb.jpg"
   }
 }
